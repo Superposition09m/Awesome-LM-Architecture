@@ -6,7 +6,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Commit](https://img.shields.io/github/last-commit/Superposition09m/Awesome-LM-Architecture)](https://github.com/Superposition09m/Awesome-LM-Architecture)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
-
+[![GitHub stars](https://img.shields.io/github/stars/Superposition09m/Awesome-LM-Architecture?style=social)](https://github.com/Superposition09m/Awesome-LM-Architecture/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/Superposition09m/Awesome-LM-Architecture?style=social)](https://github.com/Superposition09m/Awesome-LM-Architecture/watchers)
 </div>
 
 <div align="center">
@@ -146,3 +147,13 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 # Papers in other Domains/sub-domains that are related/inspiring to LM Architecture
 [to-be-continued...]
+
+
+<div align="center"> 
+<h1>📈 Star History</h1>
+</div>
+
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Superposition09m/Awesome-LM-Architecture&type=Date)](https://star-history.com/#Superposition09m/Awesome-LM-Architecture&Date)
+
