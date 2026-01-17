@@ -18,8 +18,6 @@ This is a curated collection of LLM architectures. Our approach is **Architectur
 
 We systematically collect and deconstruct *not only the main model architecture* but also *the crucial components*, such as optimizers, positional encodings, and normalization schemes, that define a model's success. 
 
-It is also about scaling the research scope into Large, industrial-scale Models.
-
 Designing new generations of LLMs needs a comprehensive view of the landscape and insights from other domains. So we also gather cross-domain research that inspires the next generation of LM design.
 
 <!-- <div align="center">
