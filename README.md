@@ -13,6 +13,14 @@
 <h1>🥳Introduction</h1>
 </div>
 
+This is a curated collection of LLM architectures. Our approach is **Architecture-First**, but we believe a model is more than its primary layers.
+
+We systematically collect and deconstruct *not only the main model architecture* but also *the crucial components*, such as optimizers, positional encodings, and normalization schemes, that define a model's success. 
+
+It is also about scaling the research scope into Large, industrial-scale Models.
+
+Designing new generations of LLMs needs a comprehensive view of the landscape and insights from other domains. So we also gather cross-domain research that inspires the next generation of LM design.
+
 <!-- <div align="center">
 <h1>📙Table of Contents</h1>
 </div> -->
@@ -92,7 +100,9 @@
 
 ###
 
-# Optimizer
+
+# Other Critical Components
+## Optimizer
 > We believe **The optimizer is the dual of the architecture**. They are not independent.
 
 ![](https://img.shields.io/badge/arXiv-2014.12-red) [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980)  
@@ -105,7 +115,7 @@
 
 ![](https://img.shields.io/badge/arXiv-2022.03-red) [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
 
-# Position Embedding
+## Position Embedding
 
 ![](https://img.shields.io/badge/arXiv-2021.04-red) [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)  
 
@@ -117,6 +127,13 @@
 ![](https://img.shields.io/badge/arXiv-2025.09-red) [Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings](https://arxiv.org/abs/2509.10534)
 
 ![](https://img.shields.io/badge/arXiv-2023.09-red) [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
+
+# Scaling
+
+![](https://img.shields.io/badge/arXiv-2001.08361-red) [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+
+![](https://img.shields.io/badge/arXiv-2022.03-red) [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
+
 
 # Awesome Technical Report of Models
 
