@@ -80,7 +80,7 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 ![](https://img.shields.io/badge/arXiv-2016.07-red) [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
-![](https://img.shields.io/badge/arXiv-2020.03-red) [Root Mean Square Layer Normalization](https://arxiv.org/abs/2003.02439)
+![](https://img.shields.io/badge/arXiv-2020.03-red) [Root Mean Square Layer Normalization](https://arxiv.org/abs/1910.07467)
 
 ![](https://img.shields.io/badge/arXiv-2025.03-red) [Transformers without Normalization](https://arxiv.org/abs/2503.10622)
 
