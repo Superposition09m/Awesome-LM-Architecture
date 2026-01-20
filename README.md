@@ -27,7 +27,7 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 - [I. Core Components](#-i-core-components)
 - [II. LM Architectures](#-ii-lm-architectures)
 - [III. Scaling & Pretraining](#-iii-scaling--pretraining)
-- [IV. Model Technical Reports](#-iv-model-technical-reports)
+- [IV. Model Technical Reports](#iv-model-technical-reports)
 - [V. Cross-Domain Inspirations](#-v-cross-domain-inspirations)
 
 <div align="center">
