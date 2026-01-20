@@ -244,13 +244,13 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ![](https://img.shields.io/badge/arXiv-2025.11-red) [Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653)
 
 
-<div align="center"> 
+<!-- <div align="center"> 
 <h1> Star History</h1>
 </div>
 
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Superposition09m/Awesome-LM-Architecture&type=Date)](https://star-history.com/#Superposition09m/Awesome-LM-Architecture&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Superposition09m/Awesome-LM-Architecture&type=Date)](https://star-history.com/#Superposition09m/Awesome-LM-Architecture&Date) -->
 
 
 <div align="center">
