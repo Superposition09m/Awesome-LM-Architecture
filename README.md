@@ -14,9 +14,7 @@
 <h1>🥳Introduction</h1>
 </div>
 
-This is a curated collection of LLM architectures. Our approach is **Architecture-First**, but we believe a model is more than its primary layers.
-
-We systematically collect and deconstruct *not only the main model architecture* but also *the crucial components*, such as optimizers, positional encodings, and normalization schemes, that define a model's success. 
+This is a curated collection of LLM architectures. Our approach is **Architecture-First**, but we believe a model is more than its primary layers. We take a **bottom-up approach** from the core components to the architectures, and then to the scaling and the whole model (technical reports).
 
 Designing new generations of LLMs needs a comprehensive view of the landscape and insights from other domains. So we also gather cross-domain research that inspires the next generation of LM design.
 
