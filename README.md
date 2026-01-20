@@ -225,4 +225,4 @@ Our repository is inspired by several outstanding projects. We stand on the shou
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — A comprehensive roadmap of the LLM era, covering everything from foundational papers to practical engineering toolkits.
 
-* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. `@_Kerman` is my friend and we together working on this note.
+* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. `@_Kerman` is my friend and we worked on this note together.
