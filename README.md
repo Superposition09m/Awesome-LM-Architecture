@@ -24,12 +24,17 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 <h1>📙Table of Contents</h1>
 </div>
 
+- [I. Core Components](#-i-core-components)
+- [II. LM Architectures](#-ii-lm-architectures)
+- [III. Scaling & Pretraining](#-iii-scaling--pretraining)
+- [IV. Model Technical Reports](#-iv-model-technical-reports)
+- [V. Cross-Domain Inspirations](#-v-cross-domain-inspirations)
 
 <div align="center">
 <h1>📃Collection (Bottom-Up)</h1>
 </div>
 
-# 🧬 I. Core Components:
+# 🧬 I. Core Components: 
 
 ## Tokenizer
 
@@ -238,4 +243,4 @@ Our repository is inspired by several outstanding projects. We stand on the shou
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — A comprehensive roadmap of the LLM era, covering everything from foundational papers to practical engineering toolkits.
 
-* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. [`@_Kerman`](https://github.com/kermanx) is my friend and we worked on this note  and positional encoding improvement together in summer 2025.
+* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. [`@_Kerman`](https://github.com/kermanx) [`@nuglifeleoji`](https://github.com/nuglifeleoji) are my friends and we worked on this note  and positional encoding improvement together in summer 2025.
