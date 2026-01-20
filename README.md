@@ -205,7 +205,9 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ![](https://img.shields.io/badge/arXiv-2022.03-red) [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-# 🏛️ IV. Model Technical Reports
+---
+
+# IV. Model Technical Reports
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
@@ -215,6 +217,8 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [Olmo 3](https://arxiv.org/abs/2512.13961)
+
+---
 
 
 # 🔗 V. Cross-Domain Inspirations
