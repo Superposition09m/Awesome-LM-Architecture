@@ -20,15 +20,94 @@ We systematically collect and deconstruct *not only the main model architecture*
 
 Designing new generations of LLMs needs a comprehensive view of the landscape and insights from other domains. So we also gather cross-domain research that inspires the next generation of LM design.
 
-<!-- <div align="center">
-<h1>📙Table of Contents</h1>
-</div> -->
-
 <div align="center">
-<h1>📃Collection</h1>
+<h1>📙Table of Contents</h1>
 </div>
 
-# Main Arch
+
+<div align="center">
+<h1>📃Collection (Bottom-Up)</h1>
+</div>
+
+# 🧬 I. Core Components:
+
+## Tokenizer
+
+![](https://img.shields.io/badge/arXiv-2015.08-red) [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909)
+
+![](https://img.shields.io/badge/arXiv-2019.09-red) [Neural Machine Translation with Byte-Level Subwords](https://arxiv.org/abs/1909.03341)
+
+## Position Embedding
+
+![](https://img.shields.io/badge/arXiv-2017.06-red) Sinusoidal [(@Attention Is All You Need)](https://arxiv.org/abs/1706.03762)
+
+![](https://img.shields.io/badge/arXiv-2023.05-red) [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466)
+
+![](https://img.shields.io/badge/arXiv-2024.04-red) [Length Generalization of Causal Transformers without Position Encoding](https://arxiv.org/abs/2404.12224)
+
+
+
+![](https://img.shields.io/badge/arXiv-2021.04-red) [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)  
+
+
+
+![](https://img.shields.io/badge/arXiv-2024.05-red) [Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719)  
+
+![](https://img.shields.io/badge/arXiv-2021.08-red) [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)
+
+![](https://img.shields.io/badge/arXiv-2025.09-red) [Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings](https://arxiv.org/abs/2509.10534)
+
+![](https://img.shields.io/badge/arXiv-2023.09-red) [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
+
+![](https://img.shields.io/badge/arXiv-2025.05-red) [PaTH Attention: Position Encoding via Accumulating Householder Transformations](https://arxiv.org/abs/2505.16381)
+
+## Normalization
+
+![](https://img.shields.io/badge/arXiv-2016.07-red) [Layer Normalization](https://arxiv.org/abs/1607.06450)
+
+![](https://img.shields.io/badge/arXiv-2020.03-red) [Root Mean Square Layer Normalization](https://arxiv.org/abs/2003.02439)
+
+![](https://img.shields.io/badge/arXiv-2025.03-red) [Transformers without Normalization](https://arxiv.org/abs/2503.10622)
+
+![](https://img.shields.io/badge/arXiv-2023.02-red) (QK-norm)[Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
+
+## Residual Connection and its Improvements
+
+![](https://img.shields.io/badge/arXiv-2015.12-red) [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+![](https://img.shields.io/badge/arXiv-2024.09-red) [Hyper-Connections](https://arxiv.org/abs/2409.19606)
+
+![](https://img.shields.io/badge/arXiv-2025.12-red) [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
+
+
+
+
+## Short Convolution
+![](https://img.shields.io/badge/arXiv-2022.12-red) [Hungry Hungry Hippos: Towards Language Modeling with State
+Space Models](https://arxiv.org/pdf/2212.14052)
+
+![](https://img.shields.io/badge/arXiv-2023.02-red) [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/pdf/2302.10866)
+
+![](https://img.shields.io/badge/blog-2025-yellow) [Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers](https://physics.allen-zhu.com/part-4-architecture-design/part-4-1)
+
+![](https://img.shields.io/badge/blog-2025-yellow) [Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality](https://physics.allen-zhu.com/part-4-architecture-design/part-4-2)
+## Optimizer
+> We believe **The optimizer is the dual of the architecture**. They are not independent.
+
+![](https://img.shields.io/badge/arXiv-2014.12-red) [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980)  
+
+![](https://img.shields.io/badge/arXiv-2017.11-red) [Decoupled Weight Decay Regularization](https://arxiv.org/pdf/1711.05101)  
+
+![](https://img.shields.io/badge/blog-2024.12-yellow) [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/)  
+
+![](https://img.shields.io/badge/arXiv-2025.02-red) [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982)  
+
+![](https://img.shields.io/badge/arXiv-2022.03-red) [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
+
+---
+
+
+# 🚀 II. LM Architectures
 
 ## Full Attention Improvements
 ### Efficiency
@@ -107,88 +186,21 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models](https://arxiv.org/abs/2501.11873)
 
-### Other New Architectures
+## Other New Architectures
 
 ![](https://img.shields.io/badge/arXiv-2025.06-red) [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 
 ![](https://img.shields.io/badge/arXiv-2026.01-red) [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/pdf/2601.07372v1)
 
+---
 
-# Other Critical Components
-## Optimizer
-> We believe **The optimizer is the dual of the architecture**. They are not independent.
-
-![](https://img.shields.io/badge/arXiv-2014.12-red) [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980)  
-
-![](https://img.shields.io/badge/arXiv-2017.11-red) [Decoupled Weight Decay Regularization](https://arxiv.org/pdf/1711.05101)  
-
-![](https://img.shields.io/badge/blog-2024.12-yellow) [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/)  
-
-![](https://img.shields.io/badge/arXiv-2025.02-red) [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982)  
-
-![](https://img.shields.io/badge/arXiv-2022.03-red) [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
-
-## Position Embedding
-
-![](https://img.shields.io/badge/arXiv-2017.06-red) [Sinusoidal(@Attention Is All You Need)](https://arxiv.org/abs/1706.03762)
-
-![](https://img.shields.io/badge/arXiv-2023.05-red) [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466)
-
-![](https://img.shields.io/badge/arXiv-2024.04-red) [Length Generalization of Causal Transformers without Position Encoding](https://arxiv.org/abs/2404.12224)
-
-
-
-![](https://img.shields.io/badge/arXiv-2021.04-red) [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)  
-
-
-
-![](https://img.shields.io/badge/arXiv-2024.05-red) [Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719)  
-
-![](https://img.shields.io/badge/arXiv-2021.08-red) [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)
-
-![](https://img.shields.io/badge/arXiv-2025.09-red) [Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings](https://arxiv.org/abs/2509.10534)
-
-![](https://img.shields.io/badge/arXiv-2023.09-red) [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
-
-![](https://img.shields.io/badge/arXiv-2025.05-red) [PaTH Attention: Position Encoding via Accumulating Householder Transformations](https://arxiv.org/abs/2505.16381)
-
-## Normalization
-
-![](https://img.shields.io/badge/arXiv-2016.07-red) [Layer Normalization](https://arxiv.org/abs/1607.06450)
-
-![](https://img.shields.io/badge/arXiv-2020.03-red) [Root Mean Square Layer Normalization](https://arxiv.org/abs/2003.02439)
-
-![](https://img.shields.io/badge/arXiv-2025.03-red) [Transformers without Normalization](https://arxiv.org/abs/2503.10622)
-
-## Residual Connection and its Improvements
-
-![](https://img.shields.io/badge/arXiv-2015.12-red) [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-
-![](https://img.shields.io/badge/arXiv-2024.09-red) [Hyper-Connections](https://arxiv.org/abs/2409.19606)
-
-![](https://img.shields.io/badge/arXiv-2025.12-red) [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
-
-## Tokenizer
-
-![](https://img.shields.io/badge/arXiv-2015.08-red) [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909)
-
-## Convolution
-![](https://img.shields.io/badge/arXiv-2022.12-red) [Hungry Hungry Hippos: Towards Language Modeling with State
-Space Models](https://arxiv.org/pdf/2212.14052)
-
-![](https://img.shields.io/badge/arXiv-2023.02-red) [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/pdf/2302.10866)
-
-![](https://img.shields.io/badge/blog-2025-yellow) [Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality](https://physics.allen-zhu.com/part-4-architecture-design/part-4-2)
-
-
-## Scaling & Pretraining
+# 📈 III. Scaling & Pretraining
 
 ![](https://img.shields.io/badge/arXiv-2001.08361-red) [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
 ![](https://img.shields.io/badge/arXiv-2022.03-red) [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-
-# Awesome Technical Reports of Models
+# 🏛️ IV. Model Technical Reports
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
@@ -199,7 +211,8 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [Olmo 3](https://arxiv.org/abs/2512.13961)
 
-# Related Research in other Domains that are inspiring to LM Architecture
+
+# 🔗 V. Cross-Domain Inspirations
 
 ![](https://img.shields.io/badge/blog-2024.7-yellow) [Physics of Language Models](https://physics.allen-zhu.com/)
 
@@ -207,7 +220,7 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 
 
 <div align="center"> 
-<h1>📈 Star History</h1>
+<h1> Star History</h1>
 </div>
 
 
@@ -225,4 +238,4 @@ Our repository is inspired by several outstanding projects. We stand on the shou
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — A comprehensive roadmap of the LLM era, covering everything from foundational papers to practical engineering toolkits.
 
-* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. [`@_Kerman`](https://github.com/kermanx) is my friend and we worked on this note together.
+* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. [`@_Kerman`](https://github.com/kermanx) is my friend and we worked on this note  and positional encoding improvement together in summer 2025.
