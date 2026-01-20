@@ -243,7 +243,7 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 Our repository is inspired by several outstanding projects. We stand on the shoulders of:
 
-* [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) — We are deeply inspired by this repository's approach to categorizing **Efficient Architecture**.
+* [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) — We are deeply inspired by this repository's approach to categorize **Efficient Architecture**.
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — A comprehensive roadmap of the LLM era, covering everything from foundational papers to practical engineering toolkits.
 
