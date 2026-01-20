@@ -101,10 +101,6 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [Nested Learning: The Illusion of Deep Learning Architectures](https://arxiv.org/abs/2512.24695)
 
 
-## Interpretable Architecture
-
-![](https://img.shields.io/badge/arXiv-2025.11-red) [Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653)
-
 ## MoE
 
 ![](https://img.shields.io/badge/arXiv-2024.01-red) [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)
@@ -183,7 +179,7 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 ![](https://img.shields.io/badge/arXiv-2022.03-red) [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
 
-# Awesome Technical Report of Models
+# Awesome Technical Reports of Models
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
@@ -192,8 +188,13 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 ![](https://img.shields.io/badge/blog-2025.09-yellow) [Qwen3-Next: Towards Ultimate Training & Inference Efficiency](https://qwen.ai/blog?id=e34c4305036ce60d55a0791b170337c2b70ae51d&from=home.latest-research-list)
 
 
-# Papers in other Domains/sub-domains that are related/inspiring to LM Architecture
-[to-be-continued...]
+![](https://img.shields.io/badge/arXiv-2025.12-red) [Olmo 3](https://arxiv.org/abs/2512.13961)
+
+# Related Research in other Domains/sub-domains that are related/inspiring to LM Architecture
+
+![](https://img.shields.io/badge/blog-2024.7-yellow) [Physics of Language Models](https://physics.allen-zhu.com/)
+
+![](https://img.shields.io/badge/arXiv-2025.11-red) [Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653)
 
 
 <div align="center"> 
