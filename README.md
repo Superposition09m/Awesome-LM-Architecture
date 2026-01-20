@@ -190,7 +190,7 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [Olmo 3](https://arxiv.org/abs/2512.13961)
 
-# Related Research in other Domains/sub-domains that are related/inspiring to LM Architecture
+# Related Research in other Domains that are inspiring to LM Architecture
 
 ![](https://img.shields.io/badge/blog-2024.7-yellow) [Physics of Language Models](https://physics.allen-zhu.com/)
 
