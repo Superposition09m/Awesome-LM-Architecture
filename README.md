@@ -157,6 +157,8 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 
 ![](https://img.shields.io/badge/arXiv-2023.12-red) [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635)
 
+DeltaNet Family
+
 ![](https://img.shields.io/badge/arXiv-2024.06-red) [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/abs/2406.06484)
 
 ![](https://img.shields.io/badge/arXiv-2024.12-red) [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
