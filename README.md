@@ -180,6 +180,8 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ## Test Time Learning Family
 
+![](https://img.shields.io/badge/arXiv-2024.07-red) [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620)
+
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 
 ![](https://img.shields.io/badge/arXiv-2025.05-red) [ATLAS: Learning to Optimally Memorize the Context at Test Time](https://arxiv.org/abs/2505.23735)
