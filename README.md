@@ -130,9 +130,16 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ## Position Embedding
 
+![](https://img.shields.io/badge/arXiv-2017.06-red) [Sinusoidal(@Attention Is All You Need)](https://arxiv.org/abs/1706.03762)
+
 ![](https://img.shields.io/badge/arXiv-2023.05-red) [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466)
 
+![](https://img.shields.io/badge/arXiv-2024.04-red) [Length Generalization of Causal Transformers without Position Encoding](https://arxiv.org/abs/2404.12224)
+
+
+
 ![](https://img.shields.io/badge/arXiv-2021.04-red) [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)  
+
 
 
 ![](https://img.shields.io/badge/arXiv-2024.05-red) [Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719)  
@@ -142,6 +149,8 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ![](https://img.shields.io/badge/arXiv-2025.09-red) [Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings](https://arxiv.org/abs/2509.10534)
 
 ![](https://img.shields.io/badge/arXiv-2023.09-red) [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
+
+![](https://img.shields.io/badge/arXiv-2025.05-red) [PaTH Attention: Position Encoding via Accumulating Householder Transformations](https://arxiv.org/abs/2505.16381)
 
 ## Normalization
 
@@ -205,3 +214,15 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Superposition09m/Awesome-LM-Architecture&type=Date)](https://star-history.com/#Superposition09m/Awesome-LM-Architecture&Date)
 
+
+<div align="center">
+<h1>Related Repos & Acknowledgments</h1>
+</div>
+
+Our repository is inspired by several outstanding projects. We stand on the shoulders of:
+
+* [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) — We are deeply inspired by this repository's approach to categorizing **Efficient Architecture**.
+
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — A comprehensive roadmap of the LLM era, covering everything from foundational papers to practical engineering toolkits.
+
+* [Notes on Positional Encoding](https://kermanx.com/notes/positional-encoding) — overview of positional encodings. `@_Kerman` is my friend and we together working on this note.
