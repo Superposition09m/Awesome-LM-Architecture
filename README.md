@@ -24,23 +24,23 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 <h1>📙Table of Contents</h1>
 </div>
 
-- [I. Core Components](#-i-core-components)
+- [I. Core Components](#i-core-components)
     - [Tokenizer](#tokenizer)
     - [Position Embedding](#position-embedding)
     - [Normalization](#normalization)
     - [Residual Connection and its Improvements](#residual-connection-and-its-improvements)
     - [Short Convolution](#short-convolution)
     - [Optimizer](#optimizer)
-- [II. LM Architectures](#-ii-lm-architectures)
+- [II. LM Architectures](#ii-lm-architectures)
     - [Full Attention Improvements](#full-attention-improvements)
     - [Sparse Attention](#sparse-attention)
     - [Linear Model](#linear-model)
     - [Test Time Learning Family](#test-time-learning-family)
     - [MoE](#moe)
     - [Other New Architectures](#other-new-architectures)
-- [III. Scaling & Pretraining](#-iii-scaling--pretraining)
+- [III. Scaling & Pretraining](#iii-scaling--pretraining)
 - [IV. Model Technical Reports](#iv-model-technical-reports)
-- [V. Cross-Domain Inspirations](#-v-cross-domain-inspirations)
+- [V. Cross-Domain Inspirations](#v-cross-domain-inspirations)
 
 <div align="center">
 <h1>📃Collection (Bottom-Up)</h1>
