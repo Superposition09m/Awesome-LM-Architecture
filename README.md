@@ -65,7 +65,7 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
 
-## Linear Attention
+## Linear Model
 
 ![](https://img.shields.io/badge/arXiv-2020.06-red) [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 
@@ -80,9 +80,23 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 ![](https://img.shields.io/badge/arXiv-2025.10-red) [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
 
 
+
+Mamba Family
+
+![](https://img.shields.io/badge/arXiv-2023.12-red) [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2312.00752)
+
+![](https://img.shields.io/badge/arXiv-2024.05-red) [Transformers are SSMs: Generalized Models and Efficient Algorithms
+Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060)
+
+![](https://img.shields.io/badge/openreview-2025.09-yellow) [MAMBA-3: IMPROVED SEQUENCE MODELING USING
+STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
+
+
 ## Test Time Learning Family
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
+
+![](https://img.shields.io/badge/arXiv-2025.05-red) [ATLAS: Learning to Optimally Memorize the Context at Test Time](https://arxiv.org/abs/2505.23735)
 
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [Nested Learning: The Illusion of Deep Learning Architectures](https://arxiv.org/abs/2512.24695)
 
@@ -97,7 +111,11 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models](https://arxiv.org/abs/2501.11873)
 
-###
+### Other New Architectures
+
+![](https://img.shields.io/badge/arXiv-2025.06-red) [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+
+![](https://img.shields.io/badge/arXiv-2026.01-red) [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/pdf/2601.07372v1)
 
 
 # Other Critical Components
@@ -116,6 +134,8 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 ## Position Embedding
 
+![](https://img.shields.io/badge/arXiv-2023.05-red) [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466)
+
 ![](https://img.shields.io/badge/arXiv-2021.04-red) [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)  
 
 
@@ -127,7 +147,36 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 ![](https://img.shields.io/badge/arXiv-2023.09-red) [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
 
-# Scaling
+## Normalization
+
+![](https://img.shields.io/badge/arXiv-2016.07-red) [Layer Normalization](https://arxiv.org/abs/1607.06450)
+
+![](https://img.shields.io/badge/arXiv-2020.03-red) [Root Mean Square Layer Normalization](https://arxiv.org/abs/2003.02439)
+
+![](https://img.shields.io/badge/arXiv-2025.03-red) [Transformers without Normalization](https://arxiv.org/abs/2503.10622)
+
+## Residual Connection and its Improvements
+
+![](https://img.shields.io/badge/arXiv-2015.12-red) [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+![](https://img.shields.io/badge/arXiv-2024.09-red) [Hyper-Connections](https://arxiv.org/abs/2409.19606)
+
+![](https://img.shields.io/badge/arXiv-2025.12-red) [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
+
+## Tokenizer
+
+![](https://img.shields.io/badge/arXiv-2015.08-red) [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909)
+
+## Convolution
+![](https://img.shields.io/badge/arXiv-2022.12-red) [Hungry Hungry Hippos: Towards Language Modeling with State
+Space Models](https://arxiv.org/pdf/2212.14052)
+
+![](https://img.shields.io/badge/arXiv-2023.02-red) [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/pdf/2302.10866)
+
+![](https://img.shields.io/badge/blog-2025-yellow) [Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality](https://physics.allen-zhu.com/part-4-architecture-design/part-4-2)
+
+
+## Scaling & Pretraining
 
 ![](https://img.shields.io/badge/arXiv-2001.08361-red) [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
