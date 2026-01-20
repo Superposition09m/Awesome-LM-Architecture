@@ -221,6 +221,13 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ![](https://img.shields.io/badge/arXiv-2022.03-red) [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
+![](https://img.shields.io/badge/arXiv-2024.01-red) [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/pdf/2401.02954)
+
+![](https://img.shields.io/badge/arXiv-2025.03-red) [Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](https://arxiv.org/abs/2503.04715)
+- [website](https://step-law.github.io/)
+
+![](https://img.shields.io/badge/arXiv-2025.06-red) [Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models](https://arxiv.org/abs/2506.10972)
+
 ---
 
 # IV. Model Technical Reports:
@@ -244,14 +251,14 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ![](https://img.shields.io/badge/arXiv-2025.11-red) [Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653)
 
 
-<!-- <div align="center"> 
+<!-- `<div align="center"> 
 <h1> Star History</h1>
 </div>
 
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Superposition09m/Awesome-LM-Architecture&type=Date)](https://star-history.com/#Superposition09m/Awesome-LM-Architecture&Date) -->
-
+`
 
 <div align="center">
 <h1>Related Repos & Acknowledgments</h1>
