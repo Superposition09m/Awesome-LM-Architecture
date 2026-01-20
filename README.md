@@ -196,6 +196,7 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ## Other New Architectures
 
 ![](https://img.shields.io/badge/arXiv-2025.06-red) [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+    - https://arcprize.org/blog/hrm-analysis
 
 ![](https://img.shields.io/badge/arXiv-2026.01-red) [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/pdf/2601.07372v1)
 
