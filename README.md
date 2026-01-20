@@ -34,7 +34,7 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 <h1>📃Collection (Bottom-Up)</h1>
 </div>
 
-# 🧬 I. Core Components: 
+# I. Core Components: 
 
 ## Tokenizer
 
@@ -112,7 +112,7 @@ Space Models](https://arxiv.org/pdf/2212.14052)
 ---
 
 
-# 🚀 II. LM Architectures
+# II. LM Architectures
 
 ## Full Attention Improvements
 ### Efficiency
@@ -205,7 +205,7 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ---
 
-# 📈 III. Scaling & Pretraining
+# III. Scaling & Pretraining
 
 ![](https://img.shields.io/badge/arXiv-2001.08361-red) [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
@@ -213,7 +213,7 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ---
 
-# 🔬 IV. Model Technical Reports:
+# IV. Model Technical Reports:
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
@@ -227,7 +227,7 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ---
 
 
-# 🔗 V. Cross-Domain Inspirations
+# V. Cross-Domain Inspirations
 
 ![](https://img.shields.io/badge/blog-2024.7-yellow) [Physics of Language Models](https://physics.allen-zhu.com/)
 
