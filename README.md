@@ -207,7 +207,7 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 
 ---
 
-# IV. Model Technical Reports
+# 🔬 IV. Model Technical Reports:
 
 ![](https://img.shields.io/badge/arXiv-2025.01-red) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
