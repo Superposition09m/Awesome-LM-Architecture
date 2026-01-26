@@ -199,6 +199,8 @@ STATE SPACE PRINCIPLES](https://openreview.net/pdf?id=HwCvaJOiCj)
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [Nested Learning: The Illusion of Deep Learning Architectures](https://arxiv.org/abs/2512.24695)
 
 
+![](https://img.shields.io/badge/arXiv-2026.01-red) [Learning to Discover at Test Time](https://arxiv.org/abs/2601.16175)
+
 ## MoE
 
 ![](https://img.shields.io/badge/arXiv-2024.01-red) [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)
