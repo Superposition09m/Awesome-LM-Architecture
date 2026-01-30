@@ -94,8 +94,7 @@ Designing new generations of LLMs needs a comprehensive view of the landscape an
 
 ![](https://img.shields.io/badge/arXiv-2025.12-red) [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 
-
-
+![](https://img.shields.io/badge/arXiv-2026.01-red) [Post-LayerNorm Is Back: Stable, Expressive, and Deep](https://arxiv.org/pdf/2601.19895)
 
 ## Short Convolution
 ![](https://img.shields.io/badge/arXiv-2022.12-red) [Hungry Hungry Hippos: Towards Language Modeling with State
